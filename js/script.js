@@ -30,9 +30,6 @@ const isGood = myEmail.includes("@");
 const answers = `Довжина: ${length}, Чи містить символ @: ${isGood}`;
 console.log(answers);
 
-
-
-
 // #3 Записати в окремих змінних кожне слово: My, name, is. Поєднати всі слова в змінну fullName. До змінної fullName додати ‘Viktor’. fullName вивести в консоль.
 const myName = "Ростислав";
 const mySubname = "Скрипин";
